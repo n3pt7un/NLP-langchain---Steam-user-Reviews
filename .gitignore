@@ -1,0 +1,16 @@
+/._.cursorignore
+/._.env
+/._.env.example
+/._README.md
+/._games.csv
+/._loading&preprocessing.ipynb
+/._main.py
+/._rag_implementation.ipynb
+/._rag_implementationV2.ipynb
+/._requirements.txt
+/._setup.sh
+/._venv
+/.cursorignore
+/.env
+/games.csv
+/venv
